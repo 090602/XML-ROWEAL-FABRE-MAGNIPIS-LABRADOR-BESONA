@@ -15,6 +15,6 @@ Contents
 
 .. toctree::
 
-   usage
+   xml_ajax
    api
    xml_tutorials
