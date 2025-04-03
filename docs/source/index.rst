@@ -17,3 +17,4 @@ Contents
 
    usage
    api
+   xml_tutorials
