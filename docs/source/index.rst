@@ -17,4 +17,4 @@ Contents
 
    xml_ajax
    api
-   xml_tutorials
+   xml_tutorial
